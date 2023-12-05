@@ -9,4 +9,8 @@ This intermediate-level certification assesses candidates' abilities in planning
 
 Covering various domains such as planning and scoping, information gathering, vulnerability identification, attacks and exploits, penetration testing tools, and reporting, the Pentest+ exam evaluates individuals' understanding of the most current penetration testing techniques, tools, and best practices within diverse IT environments, making it an essential certification for those pursuing careers in cybersecurity and ethical hacking.
 
+---
 
+### Define Scope of Engagement
+- [Scoping and Engagement](./ScopingandEngagement/)
+- [Passive Reconnaissance](./PassiveReconnaissance)
