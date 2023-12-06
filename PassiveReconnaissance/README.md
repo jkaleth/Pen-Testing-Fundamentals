@@ -47,9 +47,14 @@
 ### Recon-ng - Kali Linux 
 Recon-ng is an open-source reconnaissance framework written in Python. It is specifically designed for information gathering, reconnaissance, and open-source intelligence gathering (OSINT). Recon-ng simplifies the process of gathering information about individuals, companies, or systems by providing a modular and extensible framework.
 
-Start with the following command on Kali cli:
+#### Reference
+[Recon-ng Tutorial ](https://hackertarget.com/recon-ng-tutorial/)
 
-    $ recon-ng
+Make sure to update first-  on Kali cli:
+
+```
+$ apt-get update && apt-get install recon-ng
+```
 
 
 ## Summary
