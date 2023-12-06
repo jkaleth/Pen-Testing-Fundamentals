@@ -42,5 +42,23 @@
 - **Pentester- Information Gathering** - Passive Reconnaissnce
 - **Pentester- Vulnerability Scanning** - Take info from passive team to run scans to find vulnerabilities
 
+## OSINT Tools
+
+### Recon-ng - Kali Linux 
+Recon-ng is an open-source reconnaissance framework written in Python. It is specifically designed for information gathering, reconnaissance, and open-source intelligence gathering (OSINT). Recon-ng simplifies the process of gathering information about individuals, companies, or systems by providing a modular and extensible framework.
+
+Start with the following command on Kali cli:
+
+    $ recon-ng
+
+
 ## Summary
 Passive reconnaissance is a critical initial phase in pentesting as it helps gather a comprehensive understanding of the target environment without alerting the target organization's security measures. It aids in identifying potential entry points, vulnerabilities, and information that can be leveraged for further analysis and planning in the subsequent active phases of the penetration test.
+
+## Markdow Code Example
+
+### Tables
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
