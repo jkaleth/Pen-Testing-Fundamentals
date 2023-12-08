@@ -167,6 +167,18 @@ Visit the official Maltego website at [Maltego ](https://www.maltego.com), navig
 - **MX Record** - Directs emails to a mail server
 - **SOA** Start of Authority Record- Stores information about a domain name or zone.
 
+### Central Ops
+CentralOps.net is a website that provides various online network investigation tools and services. It offers a suite of tools that allow users to gather information about domain names, IP addresses, email addresses, and other related internet data.
+
+Some of the tools available on CentralOps.net include:
+
+    Domain Dossier: Provides information about a domain name, including registration details, DNS records, and network information.
+    Traceroute: Shows the path that data packets take from your computer to a specified destination server or IP address.
+    Email Dossier: Allows users to investigate an email address, revealing information about the mail server, sender domain, and more.
+    IP Dossier: Provides information about an IP address, including geolocation, ASN (Autonomous System Number), and related domains.
+
+These tools can be helpful for network administrators, cybersecurity professionals, website owners, and individuals looking to gather information about online entities or troubleshoot network-related issues.
+
 
 ## Summary
 Passive reconnaissance is a critical initial phase in pentesting as it helps gather a comprehensive understanding of the target environment without alerting the target organization's security measures. It aids in identifying potential entry points, vulnerabilities, and information that can be leveraged for further analysis and planning in the subsequent active phases of the penetration test.
