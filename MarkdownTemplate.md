@@ -26,16 +26,22 @@ Here are some exam tips:
 
 #### Code
 
-Here are some exam tips:
-
-1. You can execute it running `nmap ip address`
-
+    
 2. Test advice...........
 
 
 #### Additional Resources & Links
 
 For additional information please review the information available here: [Onapsis and SAP Partner to Discover and Patch Critical ICMAD Vulnerabilities](https://onapsis.com/icmad-sap-cybersecurity-vulnerabilities?utm_campaign=2022-Q1-global-ICM-campaign-page&utm_medium=referral&utm_source=github&utm_content=internal-link)
+
+## Markdow Code Example
+
+### Tables
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
 
 
 
