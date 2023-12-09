@@ -1,12 +1,12 @@
-## PenTest+ - Scoping an Engagement
+# PenTest+ - Scoping an Engagement
 
-#### Key Terms
+## Key Terms
 
 - Guarantee with 100% accuracy whether your SAP applications are vulnerable or not.
 - There are, however, several known limitations of this tool and its usage should not be considered a guarantee that SAP 
 
 
-#### Pen Tester Tasks
+## Pen Tester Tasks
 
 Here are some tasks a pentest will be responsible for :
 
